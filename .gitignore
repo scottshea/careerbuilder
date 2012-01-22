@@ -4,3 +4,4 @@ Gemfile.lock
 pkg/*
 *.iml
 app_config.yml
+.idea
